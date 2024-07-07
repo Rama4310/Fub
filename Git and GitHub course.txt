@@ -3,3 +3,25 @@ Git and GitHub
 Git -- version control {command} Software
 GitHub -- service
 
+Git Terminologies
+
+ Commands
+
+Creating a repository
+git status
+git init
+
+Check your git version
+git --version
+
+Repository
+git status
+
+Your config settings
+git config --global user.eamil "your_email_Id@example.com"
+git config --global user.name "your_name"
+
+Check your config settigns
+git config --list
+
+git add <file> <file2>
